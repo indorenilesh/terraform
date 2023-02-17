@@ -10,7 +10,7 @@ description: >
 
 # This information will be displayed in the orb registry and is not mandatory.
 display:
-  home_url: "https://www.linius.com/docs"
+  home_url: "https://www.linius.com"
   source_url: "https://github.com/indorenilesh/terraform"
 
 # If your orb requires other orbs, you can import them like this. Otherwise remove the "orbs" stanza.
